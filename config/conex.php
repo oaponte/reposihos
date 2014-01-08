@@ -2,6 +2,11 @@
 //include_once("/var/www/html/cabezacomprime.php");
 //include_once("/var/www/html/piecomprime.php");
 
+
+include_once("/var/www/html/cabezacomprime.php");
+include_once("/var/www/html/piecomprime.php");
+
+
 $dbActualSihos='';
 $dbUserSihos='';
 $dbAccessSihos='';
